@@ -1,0 +1,101 @@
+'
+39564796338400right-90404600-270344430696E-Commerce Site Development Proposal
+Prepared on 21 October 2020
+Prepared by:Mohammad Sabbir Mahmud
+Prepared for:Ashraful HaiderPavilion 
+00E-Commerce Site Development Proposal
+Prepared on 21 October 2020
+Prepared by:Mohammad Sabbir Mahmud
+Prepared for:Ashraful HaiderPavilion 
+
+Introduction
+Thank you for your interest in partnering with TecZard for your website development project. With well over 100,000 firms offering website development services, we know how challenging it can be to find the right agency for your web development needs.
+At TecZard, we hold one goal above all others: 100% client satisfaction. Our in-house team of web designers, copywriters, graphic designers, and developers uphold the highest standards for project planning and execution, and we’re dedicated to building the perfect website for your company on-time and on-budget.
+We’ve built websites for several brands around the world with great success, and are quite excited to get to work on yours.
+In this proposal, you’ll find what we feel is the optimal solution for your website development needs, along with the associated delivery timeline, costs, and project terms. Once you’ve reviewed this proposal thoroughly, simply electronically sign it at the bottom to indicate your approval.
+Thanks again for the opportunity to earn your business!
+Mohammad Sabbir MahmudProject Manager, TecZard01945747091sabbir@teczard.com
+Executive Summary
+PAVILION requires a full website build to support your digital growth strategy. This website will allow you expose your brand to organic audiences via search engines, leverage digital advertising to boost lead generation, and deploy content marketing to build brand awareness and authority.
+TecZard is uniquely qualified to build the website that you desire, due to our in-house team of designers, writers, and developers, and our experience working with clients in e-commerce industry.
+Solution Outline
+TecZard will build your website using the WordPress content management system (CMS). WordPress is used by more than a million brands around the world, and is known for it’s ease of use, security, and scalability. WordPress will allow you to do the following once your website is launched:
+Easily update page content and images
+Integrate with analytics software to track page and site performance
+Post new content to your company blog
+We propose that your site be hosted with Hostgator using Standard WordPress Hosting Plan . This will ensure that your website is capable of supporting a high volume of traffic while remaining protected from malicious entities.
+Site Structure
+Your website will have the following pages:
+Home
+Shop pages for each category
+About
+Cart
+Account
+Contact
+Return and Exchange
+Shipping and Delivery
+Privacy policy
+Additional page 1
+Additional page 2
+Additional page 3
+Site Integrations
+TecZard will integrate your site with the following tools:
+Payment Gateway Platform.
+SMS platform. 
+Mail marketing platform. 
+These integrations will allow you to use your website as a profitable marketing tool which helps you generate new revenue for your business.
+Features
+Based on previous discussions regarding your goals and expectations, your website will have the following features:
+Product category as required
+Dynamic pages as required
+Shopping Cart
+Order management dashboard
+Automatic invoice generator
+Refund policy Message
+Responsive Design
+Admin Panel
+Multiple Image Option
+Post Product in social Media
+Chat bot Options
+Promotion Features
+Inventory Integration
+Email Marketing (basic features only)
+SMS gateway integration
+Reporting( Basic)
+Coupon code for special discount 
+Dynamic Size Chart 
+News and Events 
+Special membership reward news 
+FAQ
+Payment Gateway Integration
+Product Rating/Review 
+Facebook feed
+Order note system for multiple site admin
+Shipping label generator
+Low stock notification for admin 
+Project Costs
+The table below details the costs associated with this project. The following table only represent basic ecommerce development cost. Some features are not included with this cost. For additional features please check the next table. 
+SPECIFICATIONS COST IN BDT
+Basic Design, Development &amp; Implementation 47,000
+TOTAL 47,000
+Additional Features Costs
+The table below details the costs associated with some additional features which is not mandatory for functional e-commerce site but will add extra privilege for users. 
+SPECIFICATIONS COST IN BDT
+Multiple Currency Support (Only USD/BDT) 7,000
+Specific product discount with time frame 5,000
+TOTAL 12,000
+Maintenance Fees
+The table below details monthly fees which will begin the website is successfully launched.
+SPECIFICATIONS COST IN BDT
+Service Charges for maintenance* 5,000/month
+*This charge will start from after 60 days of project handover.
+Execution Timeline
+The following table details our projected execution timeline for your website development project.
+Stage Duration
+Project Kickoff Meeting 1 Day
+Initial Design and Confirmation 5 Days
+Development Works 35 Days
+QC and Live Server Setup 5 Days
+Total 46 Days
+Disclaimer: The duration in the table above are estimates based on our experience with similar website development projects. While we strive to accurately estimate project timelines in every proposal, we reserve the right to move delivery dates in response to unforeseen delays or changes to project requirements.
+'

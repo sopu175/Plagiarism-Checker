@@ -1,0 +1,8 @@
+{
+  "require": {
+    "smalot/pdfparser": "*",
+    "kartik-v/bootstrap-fileinput": "dev-master",
+    "spatie/pdf-to-text": "^1.2",
+    "phpmailer/phpmailer": "^6.1"
+  }
+}

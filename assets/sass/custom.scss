@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+}
+.sliderSection{
+    
+    li{
+      display: inline-block;
+      width: 300px;
+      list-style: none;
+      margin: 5px;
+      .image{
+        height: 300px;
+        background-size: auto;
+        background-repeat:no-repeat;
+
+      }
+    }
+}
+.slick-next{
+  right:-55px!important;
+  &:before{
+  color: red!important;
+
+}
+}
+
+.slick-prev:before{
+  color:red!important;
+}
+.slick-dots:before{
+  color: gray!important;
+}
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
